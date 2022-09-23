@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.c
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.c(17,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication3.vcxproj -> C:\Users\user\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
